@@ -7,24 +7,24 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Bildquellen für jedes Bild ganz einfach vergeben.
+Bildquellen fÃ¼r jedes Bild ganz einfach vergeben.
 
 == Description ==
 
-Bildquellen für jedes Bild ganz einfach vergeben. Nach der Aktivierung des Plugins kann man für jede hochgeladene Datei eine Quelle angeben.
-Mit Hilfe eines Shortcodes kann man dann alle Bilder (als Thumbnail) und den dazugehörigen Text ausgeben lassen (als Tabelle). 
-Somit lässt sich relativ unkompliziert ein Bildnachweis/Verzeichnis erstellen, für alle Bilder die einen entsprechenden Eintrag haben. 
-Wenn man diesen direkt nach dem hochladen einfügt wird die Liste automatisch erweitert.
+Bildquellen fÃ¼r jedes Bild ganz einfach vergeben. Nach der Aktivierung des Plugins kann man fÃ¼r jede hochgeladene Datei eine Quelle angeben.
+Mit Hilfe eines Shortcodes kann man dann alle Bilder (als Thumbnail) und den dazugehÃ¶rigen Text ausgeben lassen (als Tabelle). 
+Somit lÃ¤sst sich relativ unkompliziert ein Bildnachweis/Verzeichnis erstellen, fÃ¼r alle Bilder die einen entsprechenden Eintrag haben. 
+Wenn man diesen direkt nach dem hochladen einfÃ¼gt wird die Liste automatisch erweitert.
 
-Für weitere Informationen und eine kleine Demo: 
+FÃ¼r weitere Informationen und eine kleine Demo: 
 
 http://www.jabbadu.com/bildquellenangaben-fuer-wordpress-plugin/
 
 Features:
 
-* Fügt der Mediathek / den einzelnen Uploads ein Textfeld für Quellenangaben hinzu
+* FÃ¼gt der Mediathek / den einzelnen Uploads ein Textfeld fÃ¼r Quellenangaben hinzu
 * **Shortcode** zur Ausgabe aller Datein die einen Eintrag haben
-* Automatisches Verzeichnis für Bildquellen
+* Automatisches Verzeichnis fÃ¼r Bildquellen
 
 == Installation ==
 
@@ -44,4 +44,4 @@ Features:
 
 == Screenshots ==
 
-1. Textfeld für Quellenangaben in der Mediathek
+1. Textfeld fÃ¼r Quellenangaben in der Mediathek
